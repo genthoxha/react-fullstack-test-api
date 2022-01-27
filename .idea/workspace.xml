@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6402b5a6-3025-4c3c-a988-5c885997b740" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2435wWF7NxNhZWEsaDpt4Ewuksl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/checkpoints/entities" />
+      <recent name="$PROJECT_DIR$/src/checkpoints" />
+      <recent name="$PROJECT_DIR$/src/users" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/user-checkpoints" />
+      <recent name="$PROJECT_DIR$/src/user-checkpoints/controllers" />
+      <recent name="$PROJECT_DIR$/src/user-checkpoints/services" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start:dev">
+    <configuration name="start:debug" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:debug" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="typeorm" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="typeorm" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="typeorm:create" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="typeorm:create" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="typeorm:run" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="typeorm:run" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start:dev" />
+        <item itemvalue="npm.start:debug" />
+        <item itemvalue="npm.typeorm:create" />
+        <item itemvalue="npm.typeorm:run" />
+        <item itemvalue="npm.typeorm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6402b5a6-3025-4c3c-a988-5c885997b740" name="Default Changelist" comment="" />
+      <created>1642846668713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642846668713</updated>
+      <workItem from="1642846669971" duration="30991000" />
+      <workItem from="1643055990738" duration="31313000" />
+      <workItem from="1643151627671" duration="17460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="364" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643239332672">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="573" y="364" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1643239332672" />
+    <state x="568" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1642957128701">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="568" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1642957128701" />
+    <state x="599" y="214" key="#xdebugger.evaluate" timestamp="1643138945523">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="599" y="214" key="#xdebugger.evaluate/0.23.1792.1097@0.23.1792.1097" timestamp="1643138945523" />
+    <state width="1766" height="290" key="GridCell.Tab.0.bottom" timestamp="1643158669617">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="290" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1643158669617" />
+    <state width="1766" height="290" key="GridCell.Tab.0.center" timestamp="1643158669617">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="290" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1643158669617" />
+    <state width="1766" height="290" key="GridCell.Tab.0.left" timestamp="1643158669617">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="290" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1643158669617" />
+    <state width="1766" height="290" key="GridCell.Tab.0.right" timestamp="1643158669617">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="290" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1643158669617" />
+    <state width="1766" height="359" key="GridCell.Tab.1.bottom" timestamp="1643150527632">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527632" />
+    <state width="1766" height="359" key="GridCell.Tab.1.center" timestamp="1643150527632">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527632" />
+    <state width="1766" height="359" key="GridCell.Tab.1.left" timestamp="1643150527632">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527632" />
+    <state width="1766" height="359" key="GridCell.Tab.1.right" timestamp="1643150527632">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527632" />
+    <state width="1766" height="359" key="GridCell.Tab.2.bottom" timestamp="1643150527633">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.2.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527633" />
+    <state width="1766" height="359" key="GridCell.Tab.2.center" timestamp="1643150527633">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.2.center/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527633" />
+    <state width="1766" height="359" key="GridCell.Tab.2.left" timestamp="1643150527633">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.2.left/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527633" />
+    <state width="1766" height="359" key="GridCell.Tab.2.right" timestamp="1643150527633">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.2.right/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527633" />
+    <state width="1766" height="359" key="GridCell.Tab.3.bottom" timestamp="1643150527634">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.3.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527634" />
+    <state width="1766" height="359" key="GridCell.Tab.3.center" timestamp="1643150527634">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.3.center/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527634" />
+    <state width="1766" height="359" key="GridCell.Tab.3.left" timestamp="1643150527633">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.3.left/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527633" />
+    <state width="1766" height="359" key="GridCell.Tab.3.right" timestamp="1643150527634">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1766" height="359" key="GridCell.Tab.3.right/0.23.1792.1097@0.23.1792.1097" timestamp="1643150527634" />
+    <state x="396" y="248" key="Vcs.Push.Dialog.v2" timestamp="1643243371867">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="396" y="248" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1643243371867" />
+    <state x="100" y="123" width="1592" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1642955511138">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="100" y="123" width="1592" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1642955511138" />
+    <state x="660" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642847109195">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="660" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1097@0.23.1792.1097" timestamp="1642847109195" />
+    <state x="523" y="275" width="746" height="592" key="find.popup" timestamp="1643243036701">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="523" y="275" width="746" height="592" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1643243036701" />
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1643143214760">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1643143214760" />
+    <state x="619" y="382" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1642856864464">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="619" y="382" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1642856864464" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/user-distances/controllers/user-distances.controller.ts</url>
+          <line>26</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/user-distances/services/user-distances.service.ts</url>
+          <line>89</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/user-distances/services/user-distances.service.ts</url>
+          <line>81</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/user-distances/services/user-distances.service.ts</url>
+          <line>86</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/user-distances/services/user-distances.service.ts</url>
+          <line>83</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/user-distances/services/user-distances.service.ts</url>
+          <line>87</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
